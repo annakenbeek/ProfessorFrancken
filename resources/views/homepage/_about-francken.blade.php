@@ -17,9 +17,9 @@
                 </em>
             </p>
             <p>
-                It has over 700 members and organizes, among other, field trips in the Netherlands and an annual symposium and a foreign excursion.
+                It has over 900 members and organizes, among other, field trips in the Netherlands and an annual symposium and a foreign excursion. 
                 Various activities, including the introductory activities for first-year students and the Bèta-bedrijvendagen (a career event for science students), are organised in partnership with sister associations.
-                Membership is a must for students with a technical orientation.
+                Membership is a must for physics students with a technical orientation.
             </p>
 
             <div class="text-right mt-4">
